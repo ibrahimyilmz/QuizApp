@@ -1,0 +1,148 @@
+Question: What is the capital of France?
+Answer: Paris
+---
+Question: What is the smallest prime number?
+Answer: 2
+---
+Question: What is the chemical symbol for water?
+Answer: H2O
+---
+Question: Who wrote 'Romeo and Juliet'?
+Answer: William Shakespeare
+---
+Question: What is the largest planet in our Solar System?
+Answer: Jupiter
+---
+Question: What is the speed of light in a vacuum (in m/s)?
+Answer: 299792458
+---
+Question: Who was the first President of the United States?
+Answer: George Washington
+---
+Question: What is the hardest natural substance on Earth?
+Answer: Diamond
+---
+Question: What is the currency of Japan?
+Answer: Yen
+---
+Question: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci
+---
+Question: What is the main ingredient in traditional paella?
+Answer: Rice
+---
+Question: What is the capital of Australia?
+Answer: Canberra
+---
+Question: What is the square root of 64?
+Answer: 8
+---
+Question: Who is known as the Father of Computer Science?
+Answer: Alan Turing
+---
+Question: What is the longest river in the world?
+Answer: Nile
+---
+Question: What is the capital of Canada?
+Answer: Ottawa
+---
+Question: What is the chemical symbol for gold?
+Answer: Au
+---
+Question: What is the highest mountain in the world?
+Answer: Mount Everest
+---
+Question: Who invented the telephone?
+Answer: Alexander Graham Bell
+---
+Question: What is the capital of Italy?
+Answer: Rome
+---
+Question: What is the atomic number of carbon?
+Answer: 6
+---
+Question: Who was the 16th President of the United States?
+Answer: Abraham Lincoln
+---
+Question: What is the primary language spoken in Brazil?
+Answer: Portuguese
+---
+Question: What is the formula for the area of a circle?
+Answer: πr^2
+---
+Question: Who discovered penicillin?
+Answer: Alexander Fleming
+---
+Question: What is the largest ocean on Earth?
+Answer: Pacific Ocean
+---
+Question: What is the currency of the United Kingdom?
+Answer: Pound Sterling
+---
+Question: What is the boiling point of water at sea level (in Celsius)?
+Answer: 100
+---
+Question: Who wrote '1984'?
+Answer: George Orwell
+---
+Question: What is the smallest country in the world by area?
+Answer: Vatican City
+---
+Question: What is the chemical formula for table salt?
+Answer: NaCl
+---
+Question: What is the capital of Spain?
+Answer: Madrid
+---
+Question: Who developed the theory of relativity?
+Answer: Albert Einstein
+---
+Question: What is the national flower of Japan?
+Answer: Cherry Blossom
+---
+Question: What is the largest desert in the world?
+Answer: Sahara
+---
+Question: What is the capital of Russia?
+Answer: Moscow
+---
+Question: What is the primary ingredient in guacamole?
+Answer: Avocado
+---
+Question: Who wrote 'To Kill a Mockingbird'?
+Answer: Harper Lee
+---
+Question: What is the main component of the sun?
+Answer: Hydrogen
+---
+Question: What is the currency of India?
+Answer: Rupee
+---
+Question: Who painted the Sistine Chapel ceiling?
+Answer: Michelangelo
+---
+Question: What is the most spoken language in the world?
+Answer: Mandarin Chinese
+---
+Question: What is the chemical symbol for iron?
+Answer: Fe
+---
+Question: What is the capital of Germany?
+Answer: Berlin
+---
+Question: Who wrote 'Pride and Prejudice'?
+Answer: Jane Austen
+---
+Question: What is the fastest land animal?
+Answer: Cheetah
+---
+Question: What is the largest mammal in the world?
+Answer: Blue Whale
+---
+Question: What is the formula for the Pythagorean theorem?
+Answer: a^2 + b^2 = c^2
+---
+Question: Who was the first woman to win a Nobel Prize?
+Answer: Marie Curie
+---
+
