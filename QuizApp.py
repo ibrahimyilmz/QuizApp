@@ -4,12 +4,12 @@ from random import shuffle
 
 
 def str_to_date(date_str):
-    return datetime.datetime.strptime(date_str, "%d.%m.%Y")
+    return datetime.datetime.strptime(date_str, "%Y-%m-%d")
 
 
 def updateStreak(filepath="QuizApp Files/Streak&Date"):
     global streak
-    today = datetime.date.today()
+    today = datetime.datetime.today()
     with open(filepath, "r") as file:
         for line in file:
             # Extract streak (digits after "Streak:")
@@ -24,10 +24,10 @@ def updateStreak(filepath="QuizApp Files/Streak&Date"):
     difference = today - date
     if difference > datetime.timedelta(hours=48):
         streak = 0
-        updateFile(streak, date)
+        updateFile(streak, today)
     elif difference > datetime.timedelta(hours=24):
         streak += 1
-        updateFile(streak, date)
+        updateFile(streak, today)
 
 
 def updateFile(streak: int, lastEntry, filepath="QuizApp Files/Streak&Date"):
